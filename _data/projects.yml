@@ -86,6 +86,14 @@
   code_url: "https://github.com/rstoneback/pysatCDF"
   contact: "Russel Stoneback"
 
+- name: "MAVENSDC cdflib"
+  html_url: "https://github.com/MAVENSDC/cdflib"
+  description: "Pure Python implementation of a NASA CDF file reader."
+  logo: ""
+  docs: ""
+  code_url: "https://github.com/MAVENSDC/cdflib"
+  contact: "MAVENSDC"
+
 - name: "geodata"
   html_url: "https://github.com/jswoboda/GeoDataPython"
   description: "Geophysics analysis of radar and optical systems."
